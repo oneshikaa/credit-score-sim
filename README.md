@@ -5,21 +5,21 @@ An interactive educational tool for understanding and simulating credit score fa
 ## Features
 
 ### Main Dashboard
-![Main Dashboard](ss\Dashboard.png)
+<img src="ss/Dashboard.png" alt="Main Dashboard" width="600" />
 - Real-time credit score display
 - Color-coded score ranges
 - Quick view of key factors
 - Score trend indicators
 
 ### Score History Tracking
-![Score History](ss\History-graph.png)
+<img src="ss/History-graph.png" alt="Score History Tracking" width="600" />
 - 6-month score progression
 - Interactive line chart
 - Score range visualization
 - Monthly trend analysis
 
 ### Personalized Recommendations
-![Recommendations](ss\Personalized-recommendations.png)
+<img src="ss/Personalized-recommendations.png" alt="Personalized Recommendations" width="600" />
 - Priority-based suggestions
 - Impact estimates
 - Action items for improvement
